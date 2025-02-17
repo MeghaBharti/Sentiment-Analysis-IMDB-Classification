@@ -10,7 +10,7 @@ This project performs sentiment analysis on movie reviews from the IMDB dataset,
 - BERT (Transformer-based deep learning model)
 
 ## Dataset:
-The dataset used is the [IMDB Dataset](https://www.kaggle.com/saeedazimi/imdb-dataset), which contains movie reviews and their corresponding sentiment labels ('positive' or 'negative').
+The dataset used is the [IMDB Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews), which contains movie reviews and their corresponding sentiment labels ('positive' or 'negative').
 
 
 ## Installation:
