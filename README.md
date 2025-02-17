@@ -2,6 +2,7 @@
 
 This project performs sentiment analysis on movie reviews from the IMDB dataset, classifying them as either positive or negative. It compares multiple machine learning models, including traditional models and a deep learning model (BERT).
 
+
 ## Models Used:
 - Logistic Regression
 - Naive Bayes
@@ -9,7 +10,8 @@ This project performs sentiment analysis on movie reviews from the IMDB dataset,
 - BERT (Transformer-based deep learning model)
 
 ## Dataset:
-The IMDB dataset contains movie reviews and sentiment labels (positive/negative).
+The dataset used is the [IMDB Dataset](https://www.kaggle.com/saeedazimi/imdb-dataset), which contains movie reviews and their corresponding sentiment labels ('positive' or 'negative').
+
 
 ## Installation:
 
